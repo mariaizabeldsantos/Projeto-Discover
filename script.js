@@ -13,6 +13,4 @@ function toggleMode() {
         // se tiver sem o light mode
         img.setAttribute('src', './avatarizabel.png')
     }
-
-   
 } 
